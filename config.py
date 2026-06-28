@@ -1,0 +1,1 @@
+MIN_INPUT_LENGTH = 3
