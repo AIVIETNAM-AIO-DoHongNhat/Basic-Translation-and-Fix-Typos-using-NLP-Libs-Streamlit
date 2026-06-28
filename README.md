@@ -41,7 +41,7 @@
 ├── utils.py          # Hàm tiện ích: nhận diện ngôn ngữ, sửa lỗi, tên ngôn ngữ
 ├── data.py           # Dữ liệu cấu hình ngôn ngữ & ví dụ mẫu
 ├── config.py         # Hằng số cấu hình (độ dài input tối thiểu)
-└── requirement.txt   # Danh sách thư viện cần cài
+└── requirements.txt  # Danh sách thư viện cần cài
 ```
 
 ## Cài đặt
@@ -63,7 +63,7 @@ source venv/bin/activate
 
 ### 3. Cài đặt thư viện
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### 4. Tải dữ liệu NLTK
